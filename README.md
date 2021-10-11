@@ -23,8 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
+[ Project Link ](https://mohit421.github.io/web_dev_coursera/module_2_assignment/module_5_assignment/index.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
